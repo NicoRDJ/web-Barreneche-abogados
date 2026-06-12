@@ -352,6 +352,6 @@ Defensa penal · Colombia
 ![Hosting](https://img.shields.io/badge/Hosting-Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
 ![Email](https://img.shields.io/badge/Formulario-FormSubmit.co-0C0F19?style=flat-square)
 
-*© 2025 Barreneche Abogado · Todos los derechos reservados*
+*© 2026 Barreneche Abogado · Todos los derechos reservados*
 
 </div>
